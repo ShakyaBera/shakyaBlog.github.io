@@ -1,34 +1,44 @@
+h2,
+h3,
+p {
+  font-family: cursive;
+}
+
 h1 {
   font-size: 30px;
-  font-family: cursive;
+  font-family: monospace;
   text-transform: uppercase;
   font-style: italic;
   text-align: center;
 }
 h2 {
   font-size: 45px;
-  font-family: sans-serif;
   text-align: center;
 }
 h3 {
   font-size: 24px;
-  font-family: sans-serif;
   text-align: center;
 }
 h4 {
   font-size: 22px;
-  font-family: sans-serif;
   text-align: center;
 }
 
 p {
   font-size: 20px;
-  font-family: serif;
   line-height: 1.5;
   text-align: center;
 }
 
 li {
   font-size: 20px;
-  font-family: cursive;
+  font-family: monospace;
+}
+
+footer p {
+  font-size: 15px;
+}
+
+header p {
+  font-style: italic;
 }
