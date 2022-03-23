@@ -1,9 +1,8 @@
 @import url("https://fonts.googleapis.com/css2?family=Poppins:wght@200;300;400;500;600;700;800&display=swap");
 
 * {
-  box-sizing: border-box;
   margin: 0;
-  padding: 0;
+  padding: 10;
   color: white;
   font-family: "Poppins", sans-serif;
 }
@@ -25,6 +24,11 @@ h4 {
   text-align: center;
 }
 
+button {
+  font-size: 22px;
+  align-items: center;
+}
+
 p {
   font-size: 20px;
   line-height: 1.5;
@@ -44,12 +48,12 @@ header p {
   font-style: italic;
 }
 .video1 {
-  padding-left: 350px;
+  padding-left: 335px;
   padding-top: 35px;
   padding-bottom: 35px;
 }
 .video2 {
-  padding-left: 350px;
+  padding-left: 335px;
   padding-top: 35px;
   padding-bottom: 35px;
 }
