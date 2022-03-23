@@ -2,6 +2,7 @@ h2,
 h3,
 p {
   font-family: cursive;
+  color: white;
 }
 
 * {
@@ -13,6 +14,7 @@ p {
 
 h1 {
   font-size: 30px;
+  color: white;
   font-family: monospace;
   text-transform: uppercase;
   font-style: italic;
@@ -29,23 +31,28 @@ h3 {
 h4 {
   font-size: 22px;
   text-align: center;
+  color: white;
 }
 
 p {
   font-size: 20px;
   line-height: 1.5;
+  color: white;
   text-align: center;
 }
 
 li {
   font-size: 20px;
+  color: white;
   font-family: monospace;
 }
 
 footer p {
+  color: white;
   font-size: 15px;
 }
 
 header p {
+  color: white;
   font-style: italic;
 }
