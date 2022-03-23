@@ -4,27 +4,10 @@
   box-sizing: border-box;
   margin: 0;
   padding: 0;
+  color: white;
   font-family: "Poppins", sans-serif;
 }
 
-.showcase {
-  position: absolute;
-  right: 0;
-  width: 100%;
-  min-height: 100vh;
-  padding: 100px;
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
-  background-color: black;
-  color: #fff;
-  z-index: 2;
-}
-
-.text {
-  position: relative;
-  z-index: 10;
-}
 h1 {
   font-size: 30px;
   text-align: center;
@@ -60,6 +43,7 @@ footer p {
 header p {
   font-style: italic;
 }
-video {
+.video1 {
   padding-left: 350px;
+  padding-top: 35px;
 }
